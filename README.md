@@ -35,7 +35,9 @@ informations données par le joueur, si le coup est possible.
 - la partie peut commencer
 
 Exemples action:
+
 T M
+
 P MORD
 
 Il faut mettre la lettre de l'action puis une lettre ou un mot selon l'action effectué
