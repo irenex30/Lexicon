@@ -28,3 +28,14 @@ l’affichage du plateau de jeu, la vérification de la validité du coup joué 
 (notamment l’orthographe des mots posés), l’élimination des joueurs, le comptage
 des points, la fin de la partie et l'exécution des coups T, E, P, R et C, en fonction des
 informations données par le joueur, si le coup est possible.
+
+Étapes:
+- ouvrir l'emplacement où le .exe se trouve
+- lancer le .exe avec le nombre de joueur à côté
+- la partie peut commencer
+
+Exemples action:
+T M
+P MORD
+
+Il faut mettre la lettre de l'action puis une lettre ou un mot selon l'action effectué
